@@ -48,8 +48,7 @@ In the fast-evolving fashion industry, staying ahead of trends is critical for s
 ## 🚀 **How to Run the Project**
 1. Clone this repository:  
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/sanji77th/apparel-product-spec-design-agent-flow.git
    ```  
 2. Configure agent parameters in `agents.yaml` and `tasks.yaml`.  
 3. Execute the workflow using Crew AI:  
