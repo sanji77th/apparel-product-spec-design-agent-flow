@@ -4,7 +4,7 @@ This project uses a multi-agent workflow powered by **Crew AI** to conduct compr
 
 ---
 
-## Ὠ0 **Project Overview**
+## 🧠 **Project Overview**
 In the fast-evolving fashion industry, staying ahead of trends is critical for success. This project combines state-of-the-art AI with multi-agent collaboration to:
 - Perform extensive market research on emerging apparel trends.
 - Analyze market data to generate detailed and insightful reports.
